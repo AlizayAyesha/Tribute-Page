@@ -96,3 +96,16 @@ blockquote {
   margin: 0 auto 50px auto;
   text-align: left;
 }
+
+#footer {
+  margin-top: 30px;
+  padding: 20px;
+  background: #333;
+  color: white;
+  text-align: center;
+}
+
+#footer p {
+  margin: 0;
+  font-size: 1.6rem;
+}
