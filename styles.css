@@ -106,6 +106,11 @@ blockquote {
 }
 
 #footer p {
-  margin: 0;
+  margin: 5px 0;
   font-size: 1.6rem;
+}
+
+#footer p:last-child {
+  font-size: 1.4rem;
+  opacity: 0.8;
 }
